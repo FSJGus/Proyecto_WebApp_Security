@@ -1,12 +1,7 @@
 # Proyecto_WebApp_Security
-GRUPO SAYAJINES CURSO: 156-3
+156-3
 
-INTEGRANTES EQUIPO SAYAJINE'S SECURITY:
 
- *GONZALO GODOY || https://github.com/Gongodes/Examen-final-Bootcamp
- *VANESSA AMARO || https://github.com/Vamartcl0216/Proyecto_Final_BootCamp.git
- *YOSSIE MUÑOZ  || https://github.com/PomPooon/Proyecto-Final-Bootcamp
- *CARLOS ESTAY  || https://github.com/cfestay/Proyecto-WebApp-Security
  *GUSTAVO LIMA  || https://github.com/FSJGus/Proyecto_WebApp_Security
 
 
